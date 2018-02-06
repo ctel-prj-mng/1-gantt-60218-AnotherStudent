@@ -1,4 +1,6 @@
-[zoombie.png]
+![zoombie.png](zoombie.png)
+
+see: risks.md
 
 
 # 1-Gantt-060218
